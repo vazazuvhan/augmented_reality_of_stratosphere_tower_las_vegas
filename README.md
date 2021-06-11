@@ -1,5 +1,7 @@
 # augmented_reality_of_stratosphere_tower_las_vegas
 
+[GO TO THE WIKI SECTIONS FOR THE STEP BY STEP TUTORIAL]
+
 hello good morning, afternoon, evening
 
 if you want an example for a simple augmented reality software using skecth up + unity + resources from vuforia, you come to the right place.
