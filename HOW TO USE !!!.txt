@@ -1,0 +1,7 @@
+HOW TO USE !!!
+
+1. Intsall AR Stratosphere Tower.apk on your phone (Android Only)
+2. Download the File Target (stratosphere.jpg) on your computer or you can print it on the pages
+3. Open the app
+4. Move your camera towards the images
+5. The 3D model will appear on your screen
